@@ -25,6 +25,10 @@ To run the project locally, follow these steps:
 4. Start the development server: `npm start`
 5. Open your browser and visit `http://localhost:3000` to view the app.
 
+## Deployed Version
+
+A deployed version of the app is available at [https://article-search-app.vercel.app/](https://article-search-app.vercel.app/).
+
 ## Contact
 
 Feel free to reach out if you have any questions or suggestions regarding the project:
